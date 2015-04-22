@@ -1,2 +1,2 @@
 # Arduino Projects
-* Learning how to use my Arduino Uno
+* Projects on my Arduino Uno board to learn more about it
